@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samir Choudhari</h1>
+<h1 align="center">Hi 👋, I'm Sameer Choudhari</h1>
 <h3 align="center">A passionate Project & Product Manager</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameerchoudharipm&label=Profile%20views&color=0e75b6&style=flat" alt="sameerchoudharipm" /> </p>
